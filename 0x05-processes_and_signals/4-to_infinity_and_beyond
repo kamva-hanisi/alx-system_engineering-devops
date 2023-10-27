@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# Displays `To infinity and beyond` after every 2 seconds
+
+count=1
+while [ $count -gt 0 ]
+do
+	echo 'To infinity and beyond'
+	sleep 2
+	(( count++ ))
+done
