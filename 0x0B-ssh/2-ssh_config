@@ -8,5 +8,5 @@ HOST *
 	HashKnownHosts yes
 	GSSAPIAuthentication yes
 	GSSAPIDelegateCredentials no
-	HostName 100.26.232.144
+	HostName 54.237.224.188
 	User ubuntu
